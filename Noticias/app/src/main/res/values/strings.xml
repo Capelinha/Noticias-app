@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noticias Tech</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet dolor ac nulla suscipit faucibus. Curabitur et leo pharetra turpis tempus venenatis eget a ante. </string>
+    <string name="imageDescription">Image</string>
+</resources>
